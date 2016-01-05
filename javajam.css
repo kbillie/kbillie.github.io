@@ -1,0 +1,118 @@
+body { background-color: #ffffcc;
+    color: #330000;
+    background-image: url(background.gif);
+    font-family: verdana, arial, sans-serif;
+}
+h1 { background-color: #ccaa66;
+     color: #000000;
+     text-align: center;
+}
+.nav { font-weight: bold;
+       font-size: 1.25em;
+       text-align: center;
+       float: left;
+       width: 100px;
+       padding-top: 10px;        
+}
+         
+#footer { background-color: #ccaa66;
+          color: 000000;
+          font-size: .60em;
+          font-style: italic;
+          text-align: center;
+          border-top: 2px double #000000;
+          padding: 15px;
+}
+
+h2 { text-transform: uppercase; 
+     background-color: #ffffcc;
+     color: #663300;
+     font-size: 1.2em;
+     border-bottom: 1px solid #000000;
+     margin-right: 20px;
+}
+#content { margin-left: 150px;
+           background-color: #ff0000;
+           color: #000000;
+           padding: 10px 20px;
+           overflow: auto;
+}
+  
+img { border: 0;
+}
+#logo { background-color: #CCAA66;
+        color: #000000;
+        text-align: center;
+        margin: 0;
+        border-bottom: 2px double #000000;
+} 
+#nav a { text-decoration: none;
+         margin: 15px;
+         text-align: center;
+         display: block;
+}
+
+.floatright { padding-left: 20px;
+              float: right;
+}
+#leftcolumn { float: left;
+			  width: 100px;
+			  padding-top: 10px;
+}
+#rightcolumn { margin-left: 150px;
+			   background-color: #f1e8b0;
+			   color: #000000;
+			   padding: 10px;
+}
+.navBar { text-decoration: none;
+          margin: 15px;
+          display: block;
+          text-align: center;      
+          list-style-type:none;
+}
+.navBar a { text-decoration: none;
+            font-size: 1.2em;
+}
+.navBar a:link { color: #000000;
+                 background-color: #eeeeee;
+}
+.navBar a:visited { color: #330033;
+                    background-color: #eeeeee;
+}
+.navBar a:hover { color: #FF9933;
+                  background-color: #eeeeee;
+}
+.details {padding-left: 20%;
+	padding-right: 20%;
+}
+#leftcolumn ul { list-style-type: none; }
+
+table {width:95%;
+       margin:auto;
+}
+td, th { padding:10px; }
+.altrow { background-color:#ccaa66; }
+.labelCol { float: left;
+            width: 100px;
+            text-align: right;
+            padding-right: 10px;
+}
+.myRow { padding-bottom: 20px;
+}
+.mySubmit { margin: 10px;
+}
+#container { background-color: #e8d882;
+             color: #000000;
+             border: 2px double #000000;
+             
+}
+#container { margin: auto;  
+            width:80%;
+            min-width:700px;
+	   background-color:#E8D882;
+	   color:#000000;
+	   border: 2px double #000000;
+}
+.clearright {clear: right;}
+ 
+        
